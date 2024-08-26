@@ -1,0 +1,24 @@
+{
+    "users": {
+      "admin": [
+        {
+          "email": "admin1@example.com"
+        },
+        {
+          "email": "admin2@example.com"
+        }
+      ],
+      "member": [
+        {
+          "email": "member1@example.com"
+        },
+        {
+          "email": "member2@example.com"
+        },
+        {
+          "email": "member3@example.com"
+        }
+      ]
+    }
+  }
+  
